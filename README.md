@@ -10,7 +10,7 @@ Pour les étudiants de 1ère année du BUT NFC de Montbéliard, il constitue l'u
 
 Au programme cette année :
 
-1. [tp1.md](Introduction au PHP et premiers pas) 👶 (3h)
+1. [Introduction au PHP et premiers pas](tp1.md) 👶 (3h)
 2. Manipuler des tableaux et des fonctions 🚀 (3h)
 3. Manipuler les formulaires HTML avec PHP et perister les données ☑️ (3h)
 4. Introduction à MySQL avec PHP 📊 (3h)
