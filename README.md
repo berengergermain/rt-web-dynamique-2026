@@ -13,7 +13,7 @@ Pour les étudiants de 1ère année du BUT NFC RT de Montbéliard, il constitue 
 Au programme cette année :
 
 1. 👶 [Introduction au PHP et premiers pas](tp1.md) (3h)
-2. 🚀 Manipuler des tableaux et des fonctions (3h)
+2. 🚀 [Manipuler des tableaux et des fonctions](tp2.md) (3h)
 3. ☑️ Manipuler les formulaires HTML avec PHP et perister les données (3h)
 4. 📊 Introduction à MySQL avec PHP (3h)
 5. ⚡️ Introduction à javascript (3h)
