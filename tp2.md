@@ -13,23 +13,29 @@
 - Site d'apprentissage multi language pour débutant : https://www.w3schools.com/php/default.asp
 - Évitez l'IA pour l'instant, cherchez à comprendre par vous même.
 
+**Chemin critique**
+
+Les exercices essentiels à la bonne compréhension des notions de ce TP sont précédés de ✅.
+
+> Dît autrement : si vous avancez lentement, privilégiez ces exercices pour faire le tour des concepts clés de cette séance.
+
 ---
 
 ### **2. Activités pratiques guidées**
 
 #### **1) Exercices sur les tableaux**
 
-**Exercice 1 : Déclaration et affichage d'un tableau**
+**✅ Exercice 1 : Déclaration et affichage d'un tableau**
 
 - Créer un tableau contenant 5 prénoms.
 - Afficher chaque élément du tableau avec une boucle `foreach`.
 
-**Exercice 2 : Ajout et suppression d'éléments**
+**✅ Exercice 2 : Ajout et suppression d'éléments**
 
 - Ajouter un nouvel élément à la fin du tableau et afficher le tableau mis à jour.
 - Supprimer le premier élément du tableau et afficher le tableau mis à jour.
 
-**Exercice 3 : Tableau associatif**
+**✅ Exercice 3 : Tableau associatif**
 
 - Créer un tableau associatif représentant une personne avec les clés `nom`, `prénom` et `age`.
 - Afficher ces informations sous la forme : *"Nom : Dupont, Prénom : Alice, Age : 25 ans"*.
@@ -39,7 +45,7 @@
 - Créer un tableau contenant plusieurs nombres et le trier avec `sort()`.
 - Afficher le tableau trié.
 
-**Exercice 5 : Recherche dans un tableau**
+**✅ Exercice 5 : Recherche dans un tableau**
 
 - Créer un tableau contenant une liste de fruits.
 - Vérifier si "Banane" est présent dans le tableau avec `in_array()`.
@@ -52,12 +58,12 @@
 
 #### **2) Exercices sur les fonctions**
 
-**Exercice 7 : Fonction simple**
+**✅ Exercice 7 : Fonction simple**
 
 - Créer une fonction `bonjour()` qui affiche "Bonjour, bienvenue !" lorsqu'elle est appelée.
 - Appeler cette fonction dans un script et observer le résultat.
 
-**Exercice 8 : Fonction avec paramètre**
+**✅ Exercice 8 : Fonction avec paramètre**
 
 - Créer une fonction `direBonjour($prenom)` qui affiche "Bonjour, [prénom] !".
 - Appeler cette fonction avec différents prénoms.
@@ -67,7 +73,7 @@
 - Créer une fonction salutation(\$nom, \$civilite = "M.") qui affiche "Bonjour M./Mme [nom]".
 - Tester avec et sans le deuxième paramètre.
 
-**Exercice 10 : Fonction avec retour de valeur**
+**✅ Exercice 10 : Fonction avec retour de valeur**
 
 - Créer une fonction `addition($a, $b)` qui retourne la somme de deux nombres.
 - Tester cette fonction avec différentes valeurs et afficher le résultat.
@@ -84,12 +90,12 @@
 
 #### **3) Exercices combinant tableaux et fonctions**
 
-**Exercice 13 : Fonction affichant un tableau**
+**✅ Exercice 13 : Fonction affichant un tableau**
 
 - Créer une fonction `afficherTableau($tab)` qui affiche tous les éléments d'un tableau passé en paramètre.
 - Tester cette fonction avec un tableau contenant des noms de villes.
 
-**Exercice 14 : Filtrage d'un tableau avec une fonction**
+**✅ Exercice 14 : Filtrage d'un tableau avec une fonction**
 
 - Créer une fonction `filtrerTableau($tab, $limite)` qui retourne un tableau contenant uniquement les nombres supérieurs à `$limite`.
 - Tester cette fonction avec un tableau de nombres.
@@ -106,7 +112,7 @@
 
 #### **4) Exercices manipulant des tableaux dans du code HTML**
 
-**Exercice 17 : Affichage d'une liste de contacts**
+**✅ Exercice 17 : Affichage d'une liste de contacts**
 
 - Créer un tableau PHP contenant plusieurs contacts avec `nom`, `prénom` et `email`.
 - Afficher ces contacts sous forme de liste `<ul>` en HTML.
@@ -121,7 +127,7 @@
 - Créer un tableau PHP contenant une liste de pages (`Accueil`, `Services`, `Contact`).
 - Générer dynamiquement un menu `<nav>` avec des liens HTML correspondants.
 
-**Exercice 20 : Affichage conditionnel dans un tableau HTML**
+**✅ Exercice 20 : Affichage conditionnel dans un tableau HTML**
 
 - Créer un tableau PHP de notes d'étudiants.
 - Afficher chaque note dans une ligne de tableau HTML, en mettant en gras celles supérieures à 15.
