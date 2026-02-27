@@ -72,7 +72,7 @@ echo "Connexion réussie !";
 - Créez un fichier `user_list.php` qui :
   - Se connecte à la base de données.
   - Exécute une requête `SELECT * FROM users`.
-  - Faite une boucle while pour parcourir les résultats et afficher les en mode debug avec \`var\_dump()\`.
+  - Faite une boucle `while` pour parcourir les résultats et afficher les en mode debug avec `var_dump()`.
     - Un peu d'aide ? cf. [https://www.w3schools.com/php/php\_mysql\_select.asp](https://www.w3schools.com/php/php_mysql_select.asp) (n'oubliez pas que pour l'instant, vous codez en procédural, pas en objet).
 
 **Exercice 4 : Affichage des utilisateurs dans un tableau HTML**
