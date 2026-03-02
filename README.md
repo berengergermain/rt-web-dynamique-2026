@@ -16,5 +16,5 @@ Au programme cette année :
 2. 🚀 [Manipuler des tableaux et des fonctions](tp2.md) (3h)
 3. ☑️ [Manipuler les formulaires HTML avec PHP et perister les données](tp3.md) (3h)
 4. 📊 [Introduction à MySQL avec PHP](tp4.md) (3h)
-5. ⚡️ Introduction à javascript (3h)
+5. ⚡️ [Introduction à javascript](tp5.md) (3h)
 6. ☠️ Exam (1h30)
