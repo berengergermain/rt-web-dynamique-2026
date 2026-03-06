@@ -55,7 +55,7 @@ Pour uploader votre site, utiliser un client sftp, comme filezilla, en spécifia
 
 #### Pour consulter votre site
 
-Saisissez dans le navigateur https://rt-projet.pu-pm.univ-fcomte.fr/users/\[login\], où \[login\] est votre login ENT. Identifiez vous avec vos identifiants ENT.
+Saisissez dans le navigateur https://rt-projet.pu-pm.univ-fcomte.fr/users/login, où login est votre login ENT. Identifiez vous avec vos identifiants ENT.
 
 #### Utiliser les bases de données.
 
