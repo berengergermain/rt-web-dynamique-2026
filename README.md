@@ -22,7 +22,7 @@ Au programme cette année :
 ### Modalités de l'examen
 
 - L'examen aura lieu vendredi 13/03/2026.
-- Il durera 1h15
+- Il durera 1h15.
 - Il sera composé d'exercices similaires à ceux proposés pendant les TP.
 - Il portera sur l'ensemble des thématiques abordées pendant les TP :
     - Parcours de tableau de données.
@@ -37,7 +37,7 @@ Au programme cette année :
     - Consulter le support de cours.
     - Consulter le code source de vos TP depuis la machine de l'IUT.
 - Vous ne serez **pas autorisés** à :
-    - Utiliser vos ordinateurs personnels
+    - Utiliser vos ordinateurs personnels.
     - Utiliser l'IA.
     - Utiliser un éditeur muni d'un LLM ou d'un code completion avancé.
     - Consulter les sites de formation, forum, et autre ressources en ligne donnant du code tout fait.
@@ -49,8 +49,8 @@ Au programme cette année :
 Pour uploader votre site, utiliser un client sftp, comme filezilla, en spécifiant :
 
 - hôte : sftp://rt-projet-sftp.pu-pm.univ-fcomte.fr
-- identifiant : votre login ENT
-- mot de passe : votre mot de passe ENT
+- identifiant : votre login ENT.
+- mot de passe : votre mot de passe ENT.
 - port : 2222
 
 #### Pour consulter votre site
