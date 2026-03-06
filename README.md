@@ -59,7 +59,7 @@ Saisissez dans le navigateur https://rt-projet.pu-pm.univ-fcomte.fr/users/\[logi
 
 #### Utiliser les bases de données.
 
-1. Rendez-vous sur https://rt-projet.pu-pm.univ-fcomte.fr/users/
+1. Rendez-vous sur https://rt-projet.pu-pm.univ-fcomte.fr
 2. Cliquez sur "Compte" en haut à droite.
 3. Suivez la procédure pour activer votre **utilisateur de base de données**
     - Lors de vos connexions à la base de données via PHP, utiliser les informations fournies sur la page.
