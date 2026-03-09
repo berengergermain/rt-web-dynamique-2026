@@ -151,7 +151,9 @@ const jokeText = document.getElementById("joke");
 
 jokeButton.addEventListener("click", () => {
     fetch("https://official-joke-api.appspot.com/random_joke")
-        .then(response => response.json())
+        .then(response => {
+            return response.json()
+        })
         .then(data => {
             jokeText.textContent = `${data.setup} - ${data.punchline}`;
         })
