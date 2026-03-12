@@ -17,7 +17,9 @@ Au programme cette année :
 3. ☑️ [Manipuler les formulaires HTML avec PHP et perister les données](tp3.md) (3h)
 4. 📊 [Introduction à MySQL avec PHP](tp4.md) (3h)
 5. ⚡️ [Introduction à javascript](tp5.md) (3h)
-6. ☠️ Exam (1h30)
+6. ☠️ Exam (1h30) :
+    - GB1 et LK1, sujet A : https://but-rt.shareandmove.com/exam-a/exam.pdf
+    - GB2 et LK2, sujet B : https://but-rt.shareandmove.com/exam-b/exam.pdf
 
 ### Modalités de l'examen
 
